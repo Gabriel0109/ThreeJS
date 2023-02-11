@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Gabriel0109/ThreeJS#readme",
   "dependencies": {
     "three": "^0.130.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.149.0"
   }
 }
