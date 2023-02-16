@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/Gabriel0109/ThreeJS#readme",
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "three": "^0.130.1"
   },
   "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
     "@types/three": "^0.149.0",
     "ts-loader": "^9.4.2",
     "typescript": "^4.9.5",
